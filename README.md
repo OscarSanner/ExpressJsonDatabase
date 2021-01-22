@@ -2,7 +2,7 @@
 Server software developed to provide online functionallity to the app [Debtify](https://github.com/OlofSjogren/GoAyo).
 
 ## Purpose
-As me and my project group started working on Debtify, our original idea was to create a protype with a "mock database". I however, had an old laptop laying around and an intresst in JavaSript and thought it would be cool to have an actual server hooked up with the application.
+As me and my project group started working on Debtify, our original idea was to create a protype with a "mock database". I however, had an old laptop laying around and an intrest in JavaSript and thought it would be cool to have an actual server hooked up with the application.
 
 The project is pretty small, yet it provides complete online capabilities to Debtify and would write tens of thousands of entries during it's hour long testing sessions. Hopefully others can take inspiration from this project, as the technique is easy to setup.
 
